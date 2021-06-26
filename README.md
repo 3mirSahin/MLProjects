@@ -1,2 +1,2 @@
 # MLProjects
-Some ML Projects I worked on through the years.
+This repository contains certain projects I worked on throughout the years to learn about Machine Learning.
